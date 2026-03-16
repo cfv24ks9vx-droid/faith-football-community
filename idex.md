@@ -31,3 +31,11 @@ Throughout my exchange, I will document:
 ## Goal of the Project
 
 The goal of this project is to demonstrate how shared interests and values can build meaningful connections between people from different cultures. I hope this project encourages others to step outside their comfort zones and explore international experiences.
+
+
+## Project Sections
+
+- [Football and Cultural Connection](football.md)
+- [Faith and Community](faith.md)
+- [Cultural Reflections](culture.md)
+- [Weekly Updates](updates.md)
